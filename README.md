@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@eggwaffle](https://github.com/eggwaffle))
+- GitHub [@eggwaffle](https://github.com/eggwaffle)
