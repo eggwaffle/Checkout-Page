@@ -1,0 +1,25 @@
+/* npx tailwindcss -i ./input.css -o ./output.css --watch */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+select:required:invalid {
+  color: #828282;
+}
+
+select:required:invalid option {
+  color: #333333;
+}
