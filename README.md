@@ -42,7 +42,7 @@ Desktop View
 <img src="https://raw.githubusercontent.com/eggwaffle/Checkout-Page/main/mobilescreenshot.png" width=50% height=50%>
 Mobile View
 
-Challenge: Create my team page following the design. The page should be responsive.
+Challenge: Create a checkout page following the design. The page should be responsive.
 
 - Demo: https://responsive-web-dev-challenges.web.app/checkoutpage/
 
